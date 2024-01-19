@@ -1,0 +1,2 @@
+Yorumlarlarla en çok eþleþen topic: 4
+Kelimeler: 0.104*"et" + 0.076*"teþekkür" + 0.065*"ürün" + 0.050*"tavsiye" + 0.046*"kargo" + 0.035*"gel" + 0.035*"hýz" + 0.028*"el" + 0.026*"sorun" + 0.025*"ulaþ" + 0.025*"paketle" + 0.024*"ol" + 0.019*"beðen" + 0.018*"iyi" + 0.017*"güzel"
